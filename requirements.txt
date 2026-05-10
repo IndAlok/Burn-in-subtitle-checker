@@ -1,0 +1,7 @@
+faster-whisper>=1.1.0
+opencv-python>=4.8
+pytesseract>=0.3.10
+rapidfuzz>=3.5
+yt-dlp>=2025.1.1
+imageio-ffmpeg>=0.5.1
+pytest>=8.0
